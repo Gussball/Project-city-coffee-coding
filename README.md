@@ -1,5 +1,5 @@
 ### Sobre o Projeto.
-Esse site foi pensado nas 3 coisas que mais gosto que seriam: Arquitetura, café e codar. 
+Site feito pensado nas 3 coisas que mais curto: Arquitetura, café e codar. 
 
 
 ## Tecnologias: HTML5 e CSS3.
