@@ -1,4 +1,4 @@
-### Sobre o Projeto.
+### Sobre o Projeto:
 Site feito pensado nas 3 coisas que mais curto: Arquitetura, café e codar. 
 
 
