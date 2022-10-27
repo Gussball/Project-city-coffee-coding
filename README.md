@@ -1,8 +1,7 @@
-### Projeto feito de 3 coisas que gosto:
-Arquitetura, café e codar. 
+###Sobre o Projeto.
+Esse site foi pensado nas 3 coisas que mais gosto que seriam: Arquitetura, café e codar. 
 <hr>
 
-## Tecnologias:
-HTML5 e CSS3.
+##Tecnologias: HTML5 e CSS3.
 
 ##GIF:
