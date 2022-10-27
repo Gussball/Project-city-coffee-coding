@@ -7,5 +7,7 @@ Site feito pensado nas 3 coisas que mais curto: Arquitetura, café e codar.
 
 Link do projeto: https://gussball.github.io/Project-city-coffee-coding/
 
+
 ## GIF:
+
 
