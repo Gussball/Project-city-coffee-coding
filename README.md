@@ -1,4 +1,4 @@
-### Projeto feito com 3 coisas que gosto:
+### Projeto feito de 3 coisas que gosto:
 Arquitetura, café e codar. 
 <hr>
 
