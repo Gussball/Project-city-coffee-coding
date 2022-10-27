@@ -9,5 +9,5 @@ Link do projeto: https://gussball.github.io/Project-city-coffee-coding/
 
 
 ## GIF:
-
+![Site future2](https://user-images.githubusercontent.com/112123706/198177455-7e7a4482-30e9-4701-b733-d0fe3d625a52.gif)
 
