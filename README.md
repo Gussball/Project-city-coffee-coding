@@ -1,5 +1,6 @@
 # Sobre o Projeto:
-Site feito pensado nas 3 coisas que mais curto: Arquitetura, café e codar. 
+Projeto com efeito parallax. 
+O efeito parallax tem como base uma ilusão de ótica, pois dá a impressão ao olho humano de que objetos ou pessoas estão em movimento, mais perto ou afastados. Assim, esse recurso de webdesign causa a sensação de que imagens distantes se movimentam mais devagar do que os objetos que estão próximos.
 
 
 # Tecnologias: 
