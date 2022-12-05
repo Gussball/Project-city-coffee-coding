@@ -4,7 +4,8 @@ O efeito parallax tem como base uma ilusão de ótica, pois dá a impressão ao 
 
 
 # Tecnologias: 
-HTML5 e CSS3.
+- HTML5.
+- CSS3.
 
 
 # Link do projeto: 
