@@ -1,6 +1,6 @@
 # Sobre o Projeto:
 Projeto com efeito parallax. <br>
-O efeito parallax tem como base uma ilusão de ótica, pois dá a impressão ao olho humano de que objetos ou pessoas estão em movimento, mais perto ou afastados. Assim, esse recurso de webdesign causa a sensação de que imagens distantes se movimentam mais devagar do que os objetos que estão próximos.
+O que é o efeito parallax? Rolagem parallax é uma técnica de web design onde o background se movimenta em um ritmo mais lento que o primeiro plano. Isso resulta em um efeito 3D à medida que os visitantes rolam pela página, adicionando uma sensação de profundidade e criando uma experiência mais imersiva.
 
 
 # Tecnologias: 
