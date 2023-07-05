@@ -1,11 +1,23 @@
-# Sobre o Projeto:
-Projeto com efeito parallax. <br>
-O que é o efeito parallax? Rolagem parallax é uma técnica de web design onde o background se movimenta em um ritmo mais lento que o primeiro plano. Isso resulta em um efeito 3D à medida que os visitantes rolam pela página, adicionando uma sensação de profundidade e criando uma experiência mais imersiva.
+# Projeto HTML e CSS - Efeito Parallax
+Este é um projeto de uma página HTML e CSS que apresenta um efeito parallax impressionante. A página é composta por três imagens centrais em 100% de largura, cada uma representando uma temática diferente: café, codificação e arquitetura.
 
+# Funcionalidades
+Efeito parallax suave e envolvente que cria uma sensação de profundidade enquanto o usuário rola a página.
+Imagens centrais em tela cheia (100% de largura) para uma experiência visual impactante.
+Layout responsivo que se adapta a diferentes dispositivos e tamanhos de tela.
 
-# Tecnologias: 
-- HTML5.
-- CSS3.
+# Como executar o projeto
+Faça o download ou clone o repositório para o seu computador.
+Abra o arquivo "index.html" em qualquer navegador web.
+
+# Estrutura de arquivos
+O projeto é composto pelos seguintes arquivos:
+
+index.html: Arquivo principal que contém a estrutura do documento HTML.
+style.css: Arquivo CSS que define a aparência e o layout da página.
+
+# Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir erros ou adicionar recursos adicionais ao projeto.
 
 
 # Link do projeto: 
