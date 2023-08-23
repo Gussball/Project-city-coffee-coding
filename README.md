@@ -13,7 +13,7 @@ Abra o arquivo "index.html" em qualquer navegador web.
 ## Estrutura de arquivos
 O projeto é composto pelos seguintes arquivos:
 
-index.html: Arquivo principal que contém a estrutura do documento HTML.
+index.html: Arquivo principal que contém a estrutura do documento HTML.<br>
 style.css: Arquivo CSS que define a aparência e o layout da página.
 
 ## Contribuição
